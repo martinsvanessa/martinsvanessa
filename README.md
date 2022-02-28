@@ -76,6 +76,7 @@
 <p>&nbsp;<img width="49%" align="rigth" src="https://github-readme-stats.vercel.app/api?username=martinsvanessa&show_icons=true&locale=en" alt="martinsvanessa"/></p>
 
 
+![Snake animation](https://github.com/martinsvanessa/martinsvanessa/blob/output/github-contribution-grid-snake.svg)
 
 
 
