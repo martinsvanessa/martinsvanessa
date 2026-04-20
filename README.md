@@ -16,7 +16,7 @@
 
 
 
-<h3 align="left">🛠 Languages and Tools:</h3>
+<!-- <h3 align="left">🛠 Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
@@ -69,7 +69,7 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
   </a>
-</p>
+</p> -->
 
 ### 🚀 Quick Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=martinsvanessa&show_icons=true&locale=en&layout=compact" alt="martinsvanessa" /></p>
